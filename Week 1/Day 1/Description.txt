@@ -1,0 +1,6 @@
+Day 1:
+We did install all relevant software and extention for the 4 weeks program on javascript
+(1). Git/Bash
+(2). NodeJS
+(3). VScode
+(4). Code Runner VScode extention
